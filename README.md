@@ -1,6 +1,12 @@
 # Contact Tracing App
 
 Sample Contact Tracing [app] [] built on Salesforce Platform.
+I get 10 times more traffic from [Google][] than from
+[Yahoo][] or [MSN][].
+
+  [google]: http://google.com/        "Google"
+  [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
+  [msn]:    http://search.msn.com/    "MSN Search"
 
 ![Contact_Tracing_App](/screenshots/screenshots.png)
 
