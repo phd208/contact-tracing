@@ -1,6 +1,6 @@
 # Contact Tracing App
 
-Sample Contact Tracing app [1] built on Salesforce Platform.
+Sample Contact Tracing [app] [1] built on Salesforce Platform.
 
 ![Contact_Tracing_App](/screenshots/screenshots.png)
 
